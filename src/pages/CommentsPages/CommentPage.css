@@ -1,0 +1,23 @@
+#commentsContainer {
+  max-width: 1000px;
+  margin: auto;
+}
+#commentsContainer .input {
+  text-align: center;
+}
+.form input {
+  padding: 10px;
+  margin-right: 20px;
+}
+#commentsContainer button {
+  /* text-align: center; */
+  width: 10%;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+.addBtn {
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+}
